@@ -1,0 +1,16 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  padding: 2px 0.9em;
+  background: gray;
+  #mobile-menu-icon{
+    path{
+      fill:white;
+    }
+  }
+  #nav_logo{
+    margin-left: 1.6em;
+    background: gray;
+  }
+  
+}
